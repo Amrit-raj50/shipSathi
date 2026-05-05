@@ -5,7 +5,7 @@
 * **Live Deployed Project Link:** [https://ship-sathi-scct.vercel.app/](https://ship-sathi-scct.vercel.app/)
 * **Postman Documentation Link:** [documentation](https://documenter.getpostman.com/view/50840965/2sBXqKofPG)
 * **Backend Deployed Link:** [https://shipsathi-db42.onrender.com/](https://shipsathi-db42.onrender.com/)
-* **YouTube Demo Link:** [Add your YouTube video link here]
+* **YouTube Demo Link:** [https://youtu.be/VHI_wR_w2J8?si=4kDJNwxJXFMPJIRJ](https://youtu.be/VHI_wR_w2J8?si=4kDJNwxJXFMPJIRJ)
 
 ---
 
